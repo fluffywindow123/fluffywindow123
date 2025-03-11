@@ -1,7 +1,7 @@
 
 # Fluffywindow Github
 
-👋 hola soy fluffywindow123
+👋 Hola, soy fluffywindow123
 
 🎮 Apasionado de los vieojuegos y la tecnologia en general
 
